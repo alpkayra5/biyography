@@ -1,0 +1,58 @@
+*{
+margin: 0;
+padding: 0;
+}
+.navbar{
+  background-color: #232676;
+  height: 50px;
+  width:  1000px;
+align-items: center;
+text-align: center;
+justify-content: space-around;
+font-size: 900;
+}
+.a{
+    text-decoration: none;
+    text-decoration-color: antiquewhite;
+    font-size: 900;
+
+}
+.ana{
+    background-color: brown;
+    height: 50px;
+    width: 90px;
+    text-align: center;
+}
+.ana:hover{
+    background-color: antiquewhite;
+}
+.blog{
+background-color:brown ;
+height: 50px;
+width:90px ;
+text-align: center;
+
+
+}
+.blog:hover{
+    background-color: aliceblue;
+}
+.iletisim{
+   background-color: brown;
+   height: 50px;
+   width: 90px;
+
+
+}
+.iletisim:hover{
+background-color: antiquewhite;
+}
+.hakkinda{
+background-color: brown;
+height: 50px;
+width: 90px;
+
+}
+.hakkinda:hover{
+    background-color: antiquewhite;
+}
