@@ -57,3 +57,7 @@ float: left;
 .hakkinda:hover{
     background-color: antiquewhite;
 }
+a{ 
+text-decoration: none;
+}
+
